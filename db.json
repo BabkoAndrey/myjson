@@ -1,0 +1,19 @@
+{
+   "personnel":[
+      {
+         "personnel_number":444,
+         "first_name":"Иван",
+         "last_name":"mts",
+         "middle_name":"",
+         "id":1012651
+      },
+      {
+         "personnel_number":777,
+         "first_name":"Василий",
+         "last_name":"mts1",
+         "middle_name":"",
+         "id":1012652
+      }
+   ],
+   "success":true
+}
